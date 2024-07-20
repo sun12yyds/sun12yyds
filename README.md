@@ -2,8 +2,8 @@
 - 👀 I’m interested in micrisoft windows
 - 🌱 I’m currently learning windows
 - 💞️ I’m looking to collaborate on github
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me outlook is xiaoyang18716576699@outlook.com
+- 😄 Pronouns: hello,goodby
 - ⚡ Fun fact: ...
 
 <!---
