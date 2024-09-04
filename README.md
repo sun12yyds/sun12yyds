@@ -2,7 +2,7 @@
 - 👀 I’m interested in micrisoft windows
 - 🌱 I’m currently learning windows
 - 💞️ I’m looking to collaborate on github
-- 📫 How to reach me outlook is sun12yyds@hotmail.com.com
+- 📫 How to reach me outlook is sun12yyds@hotmail.com
 - O(∩_∩)O i am from chongqin China
 - 😄 Pronouns: hello,goodby
 - ⚡ Fun fact: ...
