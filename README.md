@@ -1,4 +1,4 @@
-![Avatar](https://github.com/CombiningIdeas/CombiningIdeas/blob/main/images/Avatar%232.png)
+![Avatar]
 
 ![sun12yyds](https://github.com/CombiningIdeas/CombiningIdeas/blob/main/images/contributions.svg)
 
