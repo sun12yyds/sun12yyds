@@ -5,7 +5,7 @@
 # Hi :wave:, I'm a beginner backend developer in Go. ![github profile views](https://komarev.com/ghpvc/?username=CombiningIdeas&color=brightgreen&styles=plastic&base=1000) ![All stars on account](https://img.shields.io/github/stars/CombiningIdeas?style=plastic)
 
 
-If in your understanding a programmer is someone who writes Legacy code and who knows how to write a lot of incomprehensible code, then this is not about me.
+If in your understanding a programmer is someone who writes Legacy code and who knows how to write a lot of incomprehensible code, then this is not about me.my outlook:sun12yyds@hotemail.com
 It is better to write less code and simpler than more code and more complex. :white_check_mark:
 
 ---
