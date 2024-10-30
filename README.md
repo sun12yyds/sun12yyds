@@ -1,13 +1,50 @@
-- 👋 Hi, I’m @sun12yyds
-- 👀 I’m interested in micrisoft windows
-- 🌱 I’m currently learning windows
-- 💞️ I’m looking to collaborate on github
-- 📫 How to reach me outlook is sun12yyds@hotmail.com
-- O(∩_∩)O i am from chongqin China
-- 😄 Pronouns: hello,goodby
-- ⚡ Fun fact: ...
+![Avatar](https://github.com/CombiningIdeas/CombiningIdeas/blob/main/images/Avatar%232.png)
 
-<!---
-sun12yyds/sun12yyds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![dynamics image](https://github.com/CombiningIdeas/CombiningIdeas/blob/main/images/contributions.svg)
+
+# Hi :wave:, I'm a beginner backend developer in Go. ![github profile views](https://komarev.com/ghpvc/?username=CombiningIdeas&color=brightgreen&styles=plastic&base=1000) ![All stars on account](https://img.shields.io/github/stars/CombiningIdeas?style=plastic)
+
+
+If in your understanding a programmer is someone who writes Legacy code and who knows how to write a lot of incomprehensible code, then this is not about me.
+It is better to write less code and simpler than more code and more complex. :white_check_mark:
+
+---
+
+## Languages and Tools
+![Golang](https://img.shields.io/badge/Golang-00CED1?style=for-the-badge&logo=go&logoColor=00008B)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=C%2b%2b&logoColor=FF0000)
+![C](https://img.shields.io/badge/C-DCDCDC?style=for-the-badge&logo=C&logoColor=696969)
+![Python](https://img.shields.io/badge/Python-87CEEB?style=for-the-badge&logo=python&logoColor=FFFF00)
+
+![Git](https://img.shields.io/badge/git-000080)
+![GitHub](https://img.shields.io/badge/github-0000FF)
+![Fork](https://img.shields.io/badge/fork-00FFFF)
+![SQL](https://img.shields.io/badge/SQL-00FF05)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-998910)
+![pgAdmin4](https://img.shields.io/badge/pgAdmin4-808000)
+![Postman](https://img.shields.io/badge/Postman-FFFF00)
+![GoLand](https://img.shields.io/badge/GoLand-800085)
+![CLion](https://img.shields.io/badge/CLion-B0C0F5)
+![Visual_Studio](https://img.shields.io/badge/Visual_Studio-FF00FF) 
+![Power_shell](https://img.shields.io/badge/Markdown-FF5555)
+
+### Additional hard skills:
+
+![Blender 3D](https://img.shields.io/badge/Blender_3D-F95305) 
+![LaTeX](https://img.shields.io/badge/LaTeX-50F115) 
+![Ureal Ungine 5](https://img.shields.io/badge/Ureal_Ungine_5-50F0F5) 
+![Blueprints](https://img.shields.io/badge/Blueprints-231AB5)
+![WindowsForms](https://img.shields.io/badge/Windows_Forms-203185)
+
+---
+
+## Opportunity to contact me:
+
+[![Telegram](https://img.shields.io/badge/Telegram-0F0F0F?style=for-the-badge&logo=telegram&logoColor=00CED1)]([https](https://t.me/BackendDeveloperGolang))
+
+---
+
+## Statistics
+
+[![Statistics](https://github-readme-stats.vercel.app/api?username=CombiningIdeas&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CombiningIdeas&count_private=true&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
