@@ -13,6 +13,9 @@ outlook:xiaoyang18716576699@outlook.com or sun12yyds@hotmail.com
 
 bilibili:sun12yyds
 
+
+discord:sun12yyds
+
 welcome to find me!
 ---
 
