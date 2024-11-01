@@ -16,6 +16,9 @@ bilibili:sun12yyds
 
 discord:sun12yyds
 
+
+funfect😁:vmmarm and windows system
+
 welcome to find me!
 ---
 
