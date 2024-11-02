@@ -1,6 +1,4 @@
-sun12yyds
-![Windows10]
-(https://github.com/sun12yyds/sun12yyds/blob/main/Windows10%E5%A3%81%E7%BA%B8%20(1).jpg)
+sun12yyds intraduce
 
 ![dynamics image](https://github.com/CombiningIdeas/CombiningIdeas/blob/main/images/contributions.svg)
 
