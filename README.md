@@ -1,4 +1,4 @@
-[sun12yyds]!                 
+![dynamics image]                 
 (https://github.com/CombiningIdeas/CombiningIdeas/blob/main/images/contributions.svg)
 
 # Hi :wave:, I'm sun12yyds. ![github profile views](https://komarev.com/ghpvc/?username=CombiningIdeas&color=brightgreen&styles=plastic&base=1000) ![All stars on account](https://img.shields.io/github/stars/CombiningIdeas?style=plastic)
