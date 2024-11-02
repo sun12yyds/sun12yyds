@@ -1,4 +1,4 @@
-                       sun12yyds intraduce
+                                                                               sun12yyds intraduce
 
 ![dynamics image](https://github.com/CombiningIdeas/CombiningIdeas/blob/main/images/contributions.svg)
 
