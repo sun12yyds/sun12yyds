@@ -163,6 +163,7 @@ go         █░░░░░░░░░░░░░░░░░░░░░░
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=sun12yyds)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=sun12yyds)
 
 <p align="center"> 
   <i><b>Profile Visitor Count...</b></i><br>
