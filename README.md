@@ -171,3 +171,4 @@ go         █░░░░░░░░░░░░░░░░░░░░░░
   <img src="https://profile-counter.glitch.me/lostgirljourney/count.svg"  alt=""/>
 </p>
 
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=tank+you+very+much)
