@@ -171,4 +171,4 @@ go         █░░░░░░░░░░░░░░░░░░░░░░
   <img src="https://profile-counter.glitch.me/lostgirljourney/count.svg"  alt=""/>
 </p>
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=thank+you+very+much+for+visiting+My+homepage)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=thank+you+very+much+for+visiting+My+home+page)
